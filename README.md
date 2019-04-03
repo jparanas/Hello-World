@@ -7,3 +7,6 @@ I'm changing this file to test the commit.
 myFeature
 
 fix some bugs
+
+myFeature1
+
