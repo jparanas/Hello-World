@@ -4,9 +4,5 @@ Just another Hello World repository
 Hello there!
 I'm changing this file to test the commit.
 
-myFeature
-
-fix some bugs
-
-myFeature1
+release-1.0.1
 
